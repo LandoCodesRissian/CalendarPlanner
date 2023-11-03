@@ -17,8 +17,12 @@ As an employee with a busy schedule, I want to add important events to a daily p
 
 ## Preview
 
-[Add a screenshot or a GIF of the application here if applicable]
+![image](https://github.com/LandonP172/CalendarPlanner/assets/141693593/332e2aca-63fb-424e-9615-24870fb71e43)
+
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Live Site
+https://landonp172.github.io/CalendarPlanner/
